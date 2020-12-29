@@ -15,8 +15,8 @@ db.ping(True)
 
 main_path = os.getcwd()
 # dynamodb = boto3.resource('dynamodb',
-#                           aws_access_key_id="AKIAVF7XD7CKGIIG666F",
-#                           aws_secret_access_key="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",
+#                           AWS KEY",
+#                           AWS access,
 #                           region_name="ap-east-1")
 # table = dynamodb.Table('Meet')
 # table1 = dynamodb.Table('Meetinfo')
